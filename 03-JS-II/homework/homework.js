@@ -20,7 +20,7 @@ function mayoriaDeEdad(edad) {
   if (edad >= 18) {
     return "Allowed";
   } else {
-    return "Not Allowed";
+    return "Not allowed";
   }
 }
   
@@ -30,8 +30,7 @@ function conection(status) {
   //Cuando el estado es igual a 2, el usuario está "Away"
   //De lo contrario, presumimos que el usuario está "Offline"
   //Devolver el estado de conexión de usuario en cada uno de los casos.
-  var hola; 
-  let saludo; //hola
+
 }
 
 function saludo(idioma) {
