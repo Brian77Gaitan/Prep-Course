@@ -31,6 +31,7 @@ function conection(status) {
   //De lo contrario, presumimos que el usuario está "Offline"
   //Devolver el estado de conexión de usuario en cada uno de los casos.
   var hola; 
+  let saludo; //hola
 }
 
 function saludo(idioma) {
